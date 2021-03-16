@@ -6,7 +6,7 @@ body{
 .navbar{
     max-height: 57px; 
 }
-.navigation .navbar-brand{
+.navigation {
     color: white; 
     margin-left: 30px; 
     padding: inherit; 
@@ -86,7 +86,7 @@ p{
 }
   
   .button_color {
-      background-color: lightseagreen;
+    color: lightseagreen;
 }      
 
 
