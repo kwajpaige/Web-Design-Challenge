@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-For this challenge, I created a website to display data analysis assoicated to a previous activity - WeatherPy -  found in this repository:
+For this challenge, I created a website to display data analysis assoicated to a previous activity - WeatherPy -  found in this repository: https://github.com/kwajpaige/Web-Design-Challenge.git
 
 The activity seeks to understand the relationship between latitiude and for weather-related variables,  mainly Maximin Temperature, Wind Speed, Humidity and Cloudiness. 
 
