@@ -5,4 +5,4 @@ The activity seeks to understand the relationship between latitiude and for weat
 
 As predicted, Latitude and Temperature are directly correlated with higher temperatures associated with cities located near 0 degrees latitude (the equator). Analysis however shows that no such correlation exists between latitude and any of the other 3 variables: Wind Speed, Humidity or Cloudiness. 
 
-To access the webpage, following the link: 
+To access the webpage, following the link: https://kwajpaige.github.io/
